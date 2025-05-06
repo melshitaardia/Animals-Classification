@@ -1,0 +1,10 @@
+butterflys
+cats
+chickens
+cows
+dogs
+elephants
+horses
+sheeps
+spiders
+squirrels
